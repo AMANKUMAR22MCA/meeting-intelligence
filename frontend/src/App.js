@@ -16,7 +16,7 @@ import {
   Sun
 } from 'lucide-react';
 
-const API_BASE = 'http://localhost:8000/api/v1';
+const API_BASE = 'http://50.19.61.16:8000/api/v1';
 
 // Custom Toast Component
 const Toast = ({ message, type, onClose }) => {
