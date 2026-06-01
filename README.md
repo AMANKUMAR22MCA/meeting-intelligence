@@ -32,6 +32,16 @@
 </a>
 <br/><br/>
 <p><em>Upload a meeting audio file → get transcript + summary + action items in seconds</em></p>
+<p><em>⚠️ If the live URL is not accessible, the EC2 instance may be stopped to manage costs.<br/>
+Please check the demo video below to see the full working project.</em></p>  
+</div>
+
+<div align="center">
+<h2>🎬 Demo Video</h2>
+<a href="https://drive.google.com/file/d/19DmvTFz2dvswf6vfswR-3ICcigHV0vGz/view" target="_blank">
+  ▶️ Watch 2-minute demo
+</a>
+<br/><br/>
 </div>
 
 </div>
