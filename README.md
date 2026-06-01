@@ -44,13 +44,16 @@
 
 
 ### Upload Meeting
-![Upload](assets/upload.png)
+![Upload]<img width="938" height="405" alt="image" src="https://github.com/user-attachments/assets/eb22746c-97e4-4e3d-81e6-d70e3376b2b8" />
+
 
 ### Meeting Results & Action Items
-![Meeting Card](assets/meeting-card.png)
+![Meeting Card]<img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/b895ff8e-40d6-4d17-afb8-3d1e055b4294" />
+
 
 ### Email Summary
-![Email](assets/email.png)
+![Email]<img width="893" height="339" alt="image" src="https://github.com/user-attachments/assets/1a4c054a-5e09-4919-85da-b510b471a9a8" />
+
 
 ## 🧠 What is Meeting Intelligence?
 
