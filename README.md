@@ -37,6 +37,20 @@
 </div>
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard]<img width="947" height="410" alt="image" src="https://github.com/user-attachments/assets/4fcbed61-4644-48e8-b67f-6e835c5dd168" />
+
+
+### Upload Meeting
+![Upload](assets/upload.png)
+
+### Meeting Results & Action Items
+![Meeting Card](assets/meeting-card.png)
+
+### Email Summary
+![Email](assets/email.png)
 
 ## 🧠 What is Meeting Intelligence?
 
